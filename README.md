@@ -1,2 +1,2 @@
-# label-algorithm
+# 4label-AF
 four-label algorithm
